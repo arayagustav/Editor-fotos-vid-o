@@ -1,2 +1,2 @@
-# Editor-fotos-vid-o
+# Editor-video-foto-o
 Función principal edita vídeos 
